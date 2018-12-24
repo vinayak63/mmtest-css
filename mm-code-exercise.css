@@ -43,6 +43,35 @@ a {
 .mm-card .image {
   height: inherit;
   min-height: 15rem;
-  width: 100%; }
+  width: 100%;
+  padding-bottom: 15rem; }
+
+.image {
+  padding-top: 1.5rem; }
+
+body {
+  background-color: #f3f3f3; }
+
+.mm-card {
+  background-color: azure; }
+
+.equal {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap; }
+
+.text-area {
+  padding-top: 1.5rem; }
+
+.btn-primary {
+  color: #000;
+  font-size: 1rem;
+  letter-spacing: .1rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 1.2rem 4rem;
+  background-color: yellow;
+  border: 0;
+  border-radius: 0; }
 
 /*# sourceMappingURL=mm-code-exercise.css.map */
